@@ -2,7 +2,7 @@
 
 An AI chatbot that helps rural micro-entrepreneurs understand MUDRA, MSME and NABARD loan schemes, and calculate EMI, profit and affordability. 
 
-**Live demo:** 
+**Live demo:https://rural-advisory-chatbot-eptbkrxnvy38acdhnnmct8.streamlit.app/** 
 
 ## Problem
 Loan rules sit inside long, formal government PDFs. Many small business owners can't easily find which scheme fits them, what documents they need, or whether they can afford the repayments.
